@@ -4,7 +4,7 @@
 ***Conteúdo do Módulo:***
 
 * [x] [Introdução.](https://github.com/Devsgeekenrd/cla-int-est-fas-alg-log-par-pro-com-bas)
-* [ ] [Estrutura de um Algoritmo.](https://github.com/Devsgeeknerd/cla-est-alg-est-fas-alg-log-par-pro-com-bas) &#128679;
+* [x] [Estrutura de um Algoritmo.](https://github.com/Devsgeeknerd/cla-est-alg-est-fas-alg-log-par-pro-com-bas)
 * [ ] [Fases de um Algoritmo.](https://github.com/Devsgeeknerd/cla-fas-alg-est-fas-alg-log-par-pro-com-bas) &#128679;
 
 <!-- Information -->
