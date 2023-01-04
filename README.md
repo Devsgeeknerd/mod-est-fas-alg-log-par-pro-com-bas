@@ -5,7 +5,7 @@
 
 * [x] [Introdução.](https://github.com/Devsgeekenrd/cla-int-est-fas-alg-log-par-pro-com-bas)
 * [x] [Estrutura de um Algoritmo.](https://github.com/Devsgeeknerd/cla-est-alg-est-fas-alg-log-par-pro-com-bas)
-* [ ] [Fases de um Algoritmo.](https://github.com/Devsgeeknerd/cla-fas-alg-est-fas-alg-log-par-pro-com-bas) &#128679;
+* [x] [Fases de um Algoritmo.](https://github.com/Devsgeeknerd/cla-fas-alg-est-fas-alg-log-par-pro-com-bas)
 
 <!-- Information -->
 ## &#8505; Informações
