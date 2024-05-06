@@ -1,16 +1,16 @@
 <!-- Título -->
-# Estrutura e Fases de um Algoritmo
+# Estruturas e Fases de um Algoritmo
 
 ***Conteúdo do Módulo:***
 
-* [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-est-fas-alg-log-par-pro-com-bas)
-* [x] [Estrutura de um Algoritmo.](https://github.com/Devsgeeknerd/cla-est-alg-est-fas-alg-log-par-pro-com-bas)
-* [x] [Fases de um Algoritmo.](https://github.com/Devsgeeknerd/cla-fas-alg-est-fas-alg-log-par-pro-com-bas)
+* [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-est-fas-alg-log-par-pro-com-bas) &#128679;
+* [ ] [Estruturas de um Algoritmo.](https://github.com/Devsgeeknerd/cla-est-alg-est-fas-alg-log-par-pro-com-bas) &#128679;
+* [ ] [Fases de um Algoritmo.](https://github.com/Devsgeeknerd/cla-fas-alg-est-fas-alg-log-par-pro-com-bas) &#128679;
 
 <!-- Informações -->
 ## &#8505; Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-est-fas-alg-log-par-pro-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-est-fas-alg-log-par-pro-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitante")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
