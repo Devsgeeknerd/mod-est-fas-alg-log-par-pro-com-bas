@@ -1,6 +1,8 @@
 <!-- Título -->
 # Estruturas e Fases de um Algoritmo
 
+Desvendando os Segredos da Lógica: Estruturas e Etapas Cruciais de um Algoritmo.
+
 ***Conteúdo do Módulo:***
 
 * [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-est-fas-alg-log-par-pro-com-bas) &#128679;
